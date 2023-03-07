@@ -1,6 +1,5 @@
 # dependencies
 node_modules
-package-lock.json
 
 # environments
 .env
@@ -21,6 +20,7 @@ lerna-debug.log*
 ## deployment
 dist/
 build/
+storybook-static/
 
 # Tests
 /coverage
